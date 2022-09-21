@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-require('./template.js')
+require('../dist/index')
